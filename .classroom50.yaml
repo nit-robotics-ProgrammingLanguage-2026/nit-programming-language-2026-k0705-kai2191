@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "nit-programming-language-2026"
+assignment: "k0705"
+secret: "nmm2dsr0"
+owner:
+  username: "Kai2191"
+  id: 337859133
+  accepted_at: "2026-11-13T11:27:11Z"
+source:
+  owner: "nit-robotics-ProgrammingLanguage-2026"
+  owner_id: 326343566
+  repo: "template-task0705-refactor_gcd"
+  branch: "main"
